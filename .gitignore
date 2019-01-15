@@ -1,0 +1,7 @@
+.git/
+.git
+bundle/*/doc/tags
+init.vim
+.vim/.netrwhist
+*~
+.viminfo
